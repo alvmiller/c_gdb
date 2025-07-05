@@ -1,0 +1,19 @@
+/*
+DDD
+gdb
+
+https://www.geeksforgeeks.org/gdb-step-by-step-introduction/
+https://medium.com/havingfun/debugging-c-code-with-gdb-90adb2f3da96
+https://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html
+https://web.eecs.umich.edu/~sugih/pointers/summary.html
+https://u.osu.edu/cstutorials/2018/09/28/how-to-debug-c-program-using-gdb-in-6-simple-steps/
+https://www.cprogramming.com/gdb.html
+https://sourceware.org/gdb/current/onlinedocs/gdb.html/Sample-Session.html
+https://docs.amd.com/r/2021.1-English/ug1498-model-composer-sys-gen-tutorial/Step-2-Debugging-C/C-Code-Using-GDB-Debugger
+
+cc -g main.c
+gdb a.out
+break 10
+run
+print i
+*/
